@@ -118,7 +118,7 @@ button img {
   margin: 0px;
 }
 
-input#username {
+.admin-container input#username {
   width: 800px;
   text-align: center;
 }
