@@ -1,0 +1,1 @@
+FIREBASE = Firebase::Client.new(ENV["BASE_URI"])
