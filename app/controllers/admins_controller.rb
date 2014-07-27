@@ -4,4 +4,5 @@ class AdminsController < ApplicationController
   	redirect_to login_path unless session[:logged_in]
   end
 
+
 end
