@@ -1,6 +1,7 @@
 $(function() {
   var ref = new Firebase("https://YO-OUTSIDE-HACKS.firebaseio.com/");
   var yosRef = ref.child("yos");
+  var $btnText = $('span');
 
   // initial load
   yosRef.on("child_added", function (yo) {
@@ -12,10 +13,15 @@ $(function() {
   });
 
   $("#yo-all").click(function() {
+    toggleButton();
     $.ajax({
       url: '/yo_send',
       type: 'POST',
       data: { type: 'all' }
+    }).done(function(){
+      toggleButton();
+      $btnText.text('SENT!')
+      setTimeout(function() { $btnText.text('YO ALL!') }, 1000)
     });
   });
 
@@ -25,5 +31,10 @@ $(function() {
   function addAnimations() {
     $('body').addClass('animate');
     $('li').addClass('dont-animate');
+  }
+
+  function toggleButton() {
+    $('img').toggle();
+    $btnText.toggle();
   }
 });
