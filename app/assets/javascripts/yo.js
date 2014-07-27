@@ -9,12 +9,14 @@ $(function() {
     var $yoNode = $('<li>').text(yo.username);
 
     $('ul').prepend($yoNode);
+    $yoNode.slideDown();
   });
 
   // start animating the addition
-  // setTimeout(addAnimations, 2000);
+  setTimeout(addAnimations, 2000);
 
-  // function() {
-  //   $('body').addClass('animate');
-  // }
+  function addAnimations() {
+    $('body').addClass('animate');
+    $('li').addClass('dont-animate');
+  }
 });
