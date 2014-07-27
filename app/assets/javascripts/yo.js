@@ -12,6 +12,14 @@ $(function() {
     $yoNode.slideDown();
   });
 
+  $("#yo-all").click(function() {
+    $.ajax({
+      url: '/yo_send',
+      type: 'POST',
+      data: { type: 'all' }
+    });
+  });
+
   // start animating the addition
   setTimeout(addAnimations, 2000);
 

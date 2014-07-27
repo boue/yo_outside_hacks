@@ -1,5 +1,5 @@
 class YosController < ApplicationController
-	
+
 	def yo_receive
 		if params[:api_key] == ENV["API_KEY"]
 			FIREBASE.push("yos", { :username => params[:username], :timestamp => Time.now })
@@ -11,14 +11,13 @@ class YosController < ApplicationController
 	end
 
 	def yo_send
-	  	# if params[:type] == "one" && params[:username]
-	  	# 	#send to one user
-	  	# elsif params[:type] == "all" 
-
-	  	# else
-	  	# 	redirect_to admin_path
-  		# end	
+  	if params[:type] == "one" && params[:username]
+  		#send to one user
+  	elsif params[:type] == "all"
+  		`curl --data "api_token=#{ENV['YO_SECRET']}" http://api.justyo.co/yoall/`
   	end
 
+  	head :no_content
+  end
 
 end

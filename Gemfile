@@ -38,11 +38,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'firebase'
-gem 'debugger'
-gem 'httparty'
 
-
-group :development do 
+group :development do
 	gem 'better_errors'
   	gem 'binding_of_caller'
   	gem 'dotenv-rails'
