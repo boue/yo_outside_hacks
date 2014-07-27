@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+
+  get 'yo/c1528fbba492bffb57aae12a8abfa0c80e671939b5040fa4a0145101b96e8e9c', to: 'yos#yo'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

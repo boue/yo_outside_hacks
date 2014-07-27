@@ -1,0 +1,3 @@
+class YosController < ApplicationController
+
+end
