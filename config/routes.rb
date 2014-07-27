@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
-  # You can have the root of your site routed with "root"
+
+  get 'yo/:api_key', to: 'yos#yo'
   root 'welcome#index'
 end
