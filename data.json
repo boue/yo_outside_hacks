@@ -1,5 +1,12 @@
 [
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "8:05 - 9:50", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/kanye-west", 
         "ids": {
             "spotify": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
@@ -13,6 +20,13 @@
         "artist": "Kanye West"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "8:40 - 9:55", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/arctic-monkeys", 
         "ids": {
             "spotify": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
@@ -26,6 +40,13 @@
         "artist": "Arctic Monkeys"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "6:20 - 7:20", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/disclosure", 
         "ids": {
             "spotify": "spotify:artist:6nS5roXSAGhTGr34W6n7Et", 
@@ -39,6 +60,13 @@
         "artist": "Disclosure"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "6:50 - 7:50", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/tegan-and-sara", 
         "ids": {
             "spotify": "spotify:artist:5e1BZulIiYWPRm8yogwUYH", 
@@ -52,6 +80,13 @@
         "artist": "Tegan & Sara"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "7:00 - 8:15", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/tedeschi-trucks-band", 
         "ids": {
             "spotify": "spotify:artist:2gFsmDBM0hkoZPmrO5EdyO", 
@@ -65,6 +100,13 @@
         "artist": "Tedeschi Trucks Band"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:50 - 5:50", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/chromeo", 
         "ids": {
             "spotify": "spotify:artist:2mV8aJphiSHYJf43DxL7Gt", 
@@ -78,6 +120,13 @@
         "artist": "Chromeo"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "5:30 - 6:30", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/kacey-musgraves", 
         "ids": {
             "spotify": "spotify:artist:70kkdajctXSbqSMJbQO424", 
@@ -91,6 +140,13 @@
         "artist": "Kacey Musgraves"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "5:15 - 6:05", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/grouplove", 
         "ids": {
             "spotify": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx", 
@@ -104,6 +160,13 @@
         "artist": "Grouplove"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:00 - 5:00", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/nicki-bluhm", 
         "ids": {
             "outside": "113541"
@@ -111,6 +174,13 @@
         "artist": "Nicki Bluhm and The Gramblers"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:30 - 3:30", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/phosphorescent", 
         "ids": {
             "spotify": "spotify:artist:57kIMCLPgkzQlXjblX7XXP", 
@@ -124,6 +194,13 @@
         "artist": "Phosphorescent"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:00 - 2:50", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/run-the-jewels", 
         "ids": {
             "outside": "568121"
@@ -131,6 +208,13 @@
         "artist": "Run the Jewels (El-P & Killer Mike)"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "3:20 - 4:20", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/holy-ghost", 
         "ids": {
             "spotify": "spotify:artist:2Vhc7Y0Kc6HzMC6glKM4h6", 
@@ -144,6 +228,13 @@
         "artist": "Holy Ghost!"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "3:40 - 4:30", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/warpaint", 
         "ids": {
             "spotify": "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO", 
@@ -157,6 +248,13 @@
         "artist": "Warpaint"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "7:50 - 8:35", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/typhoon", 
         "ids": {
             "spotify": "spotify:artist:6kBlEsdNeNW2qnmW56xDhx", 
@@ -170,6 +268,13 @@
         "artist": "Typhoon"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "1:10 - 2:00", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/greensky-bluegrass", 
         "ids": {
             "spotify": "spotify:artist:33bzrYoIWLx5uox3y0VtHn", 
@@ -182,6 +287,13 @@
         "artist": "Greensky Bluegrass"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:10 - 2:55", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/bleachers", 
         "ids": {
             "spotify": "spotify:artist:4GvRwJcjpFXkO2KPypdLvD", 
@@ -194,6 +306,13 @@
         "artist": "Bleachers"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "12:40 - 1:30", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/soul-rebels", 
         "ids": {
             "spotify": "spotify:artist:10NEMYLJwVvYSvtvZn5Ipz", 
@@ -206,6 +325,13 @@
         "artist": "The Soul Rebels"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "6:05 - 6:45", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/bear-hands", 
         "ids": {
             "spotify": "spotify:artist:3ViZST9PgFoieuOHY2GZMp", 
@@ -219,6 +345,13 @@
         "artist": "Bear Hands"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:30 - 5:10", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/mikal-cronin", 
         "ids": {
             "spotify": "spotify:artist:6QobJ3vnalBTlsdOrvQTIt", 
@@ -232,6 +365,13 @@
         "artist": "Mikal Cronin"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:55 - 3:35", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/medicine-for-the-people", 
         "ids": {
             "spotify": "spotify:artist:35fFUv2850L9CQjjNrLBpb", 
@@ -242,6 +382,13 @@
         "artist": "Nahko and Medicine for the People"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "12:45 - 1:30", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/aer", 
         "ids": {
             "spotify": "spotify:artist:25hbSOMmbhgqvonjC876UJ", 
@@ -254,6 +401,13 @@
         "artist": "Aer"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "12:00 - 12:40", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/night-terrors-of-1927", 
         "ids": {
             "spotify": "spotify:artist:7m3fe3erw9iO9gs4AeLSG8", 
@@ -264,6 +418,13 @@
         "artist": "Night Terrors of 1927"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "12:00 - 12:40", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/rayland-baxter", 
         "ids": {
             "spotify": "spotify:artist:251UrhgNbMr15NLzQ2KyKq", 
@@ -276,6 +437,13 @@
         "artist": "RayLand Baxter"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "6:00 - 8:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/dj-icey", 
         "ids": {
             "spotify": "spotify:artist:6bqEoxxGlwtRXZsoAXJFzA", 
@@ -289,6 +457,13 @@
         "artist": "DJ Icey"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:30 - 6:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/paul-johnson", 
         "ids": {
             "spotify": "spotify:artist:4BqZuFqHJ8CLn3ig0f1m0G", 
@@ -302,6 +477,13 @@
         "artist": "Paul Johnson"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "3:00 - 4:30", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/motion-potion", 
         "ids": {
             "musicbrainz": "203685a4-b312-4049-ae25-e88ac8cbb582", 
@@ -312,6 +494,13 @@
         "artist": "Motion Potion"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "1:30 - 3:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/dj-dials", 
         "ids": {
             "spotify": "spotify:artist:73q6o0DNbpIowxpSqs6hjs", 
@@ -322,6 +511,13 @@
         "artist": "DJ Dials"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "12:00 - 1:30", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/shouts", 
         "ids": {
             "outside": "647611", 
@@ -331,6 +527,18 @@
         "artist": "Shouts!"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:30 - 5:45", 
+                "stage": "The Barbary"
+            }, 
+            {
+                "date": "2014-08-10", 
+                "time": "2:30 - 3:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/lewis-black", 
         "ids": {
             "spotify": "spotify:artist:6XloIaGQ9H1Nn37puBzQqm", 
@@ -344,6 +552,13 @@
         "artist": "Lewis Black"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:30 - 3:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/aisha-tyler", 
         "ids": {
             "spotify": "spotify:artist:61KCQz5oO2VtckbzwooBTd", 
@@ -356,6 +571,13 @@
         "artist": "Aisha Tyler"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "6:15 - 7:15", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/garfunkel-and-oates", 
         "ids": {
             "spotify": "spotify:artist:2wZcAibn3pVsNvp95HQx8n", 
@@ -369,6 +591,18 @@
         "artist": "Garfunkel & Oates"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:30 - 5:45", 
+                "stage": "The Barbary"
+            }, 
+            {
+                "date": "2014-08-10", 
+                "time": "2:30 - 3:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/rory-albanese-", 
         "ids": {
             "outside": "772220", 
@@ -377,6 +611,13 @@
         "artist": "Rory Albanese"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:30 - 3:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/matt-mccarthy-", 
         "ids": {
             "spotify": "spotify:artist:3V4ODgUObsEHFX6GQUy8xl", 
@@ -387,6 +628,18 @@
         "artist": "Matt McCarthy"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "4:30 - 5:45", 
+                "stage": "The Barbary"
+            }, 
+            {
+                "date": "2014-08-08", 
+                "time": "6:15 - 7:15", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/aparna-nancherla", 
         "ids": {
             "outside": "86482"
@@ -394,6 +647,13 @@
         "artist": "Aparna Nancherla"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-08", 
+                "time": "2:30 - 3:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/ali-mafi-", 
         "ids": {
             "outside": "781734"
@@ -401,6 +661,7 @@
         "artist": "Ali Mafi"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/beso-negro", 
         "ids": {
             "spotify": "spotify:artist:3DoXiWB4TMZBu2FSJUyCgL", 
@@ -411,6 +672,7 @@
         "artist": "Beso Negro"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/carny-bastards", 
         "ids": {
             "outside": "782293"
@@ -418,6 +680,7 @@
         "artist": "Carny Bastards"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/dustbowl-revival", 
         "ids": {
             "musicbrainz": "d8baeb9f-31f0-47ec-aade-ad53bd4f3496", 
@@ -428,6 +691,7 @@
         "artist": "Dustbowl Revival"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/el-radio-fantastique", 
         "ids": {
             "musicbrainz": "7d6fd24c-7735-4ba0-bf9b-ea0c6149d2c9", 
@@ -439,6 +703,7 @@
         "artist": "EL Radio Fantastique"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/marty-oreilly-and-the-old-soul-orchestra", 
         "ids": {
             "spotify": "spotify:artist:0oFKnXK9fgRpWNyKoJeSOy", 
@@ -449,6 +714,7 @@
         "artist": "Marty O'Reilly & The Old Soul Orchestra"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/slim-jenkins", 
         "ids": {
             "outside": "88231"
@@ -456,6 +722,7 @@
         "artist": "Slim Jenkins"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/tritiptrio", 
         "ids": {
             "spotify": "spotify:artist:0MYALjRKpA76k8ODIe7lUN", 
@@ -466,6 +733,13 @@
         "artist": "TriTipTrio"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "7:55 - 9:55", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/tom-petty-and-the-heartbreakers", 
         "ids": {
             "spotify": "spotify:artist:4tX2TplrkIP4v05BNC903e", 
@@ -479,6 +753,13 @@
         "artist": "Tom Petty & the Heartbreakers"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "8:40 - 9:55", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/macklemore-and-ryan-lewis", 
         "ids": {
             "spotify": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC", 
@@ -490,6 +771,13 @@
         "artist": "Macklemore & Ryan Lewis"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "6:00 - 7:10", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/death-cab-for-cutie", 
         "ids": {
             "spotify": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx", 
@@ -503,6 +791,13 @@
         "artist": "Death Cab For Cutie"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "7:00 - 8:10", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/atmosphere", 
         "ids": {
             "spotify": "spotify:artist:1GAS0rb4L8VTPvizAx2O9J", 
@@ -516,6 +811,13 @@
         "artist": "Atmosphere"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "6:55 - 7:55", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/duck-sauce-", 
         "ids": {
             "spotify": "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt", 
@@ -529,6 +831,13 @@
         "artist": "Duck Sauce"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "4:30 - 5:30", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/haim", 
         "ids": {
             "spotify": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE", 
@@ -542,6 +851,13 @@
         "artist": "Haim"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "5:15 - 6:05", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/capital-cities", 
         "ids": {
             "spotify": "spotify:artist:4gwpcMTbLWtBUlOijbVpuu", 
@@ -555,6 +871,13 @@
         "artist": "Capital Cities"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "3:00 - 4:00", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/local-natives", 
         "ids": {
             "spotify": "spotify:artist:75dQReiBOHN37fQgWQrIAJ", 
@@ -568,6 +891,13 @@
         "artist": "Local Natives"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "5:30 - 6:30", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/john-butler-trio", 
         "ids": {
             "spotify": "spotify:artist:4XsuCobDDOEQTVXYoJNCCf", 
@@ -580,6 +910,13 @@
         "artist": "John Butler Trio"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "3:40 - 4:30", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/tycho", 
         "ids": {
             "spotify": "spotify:artist:5oOhM2DFWab8XhSdQiITry", 
@@ -593,6 +930,13 @@
         "artist": "Tycho"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "1:40 - 2:30", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-kooks", 
         "ids": {
             "spotify": "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4", 
@@ -606,6 +950,13 @@
         "artist": "The Kooks"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "7:55 - 8:40", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/boys-noize", 
         "ids": {
             "spotify": "spotify:artist:62k5LKMhymqlDNo2DWOvvv", 
@@ -619,6 +970,13 @@
         "artist": "Boys Noize"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "4:00 - 5:00", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/deer-tick", 
         "ids": {
             "spotify": "spotify:artist:3rT8xTwSOMDURtWpPyoKIO", 
@@ -632,6 +990,13 @@
         "artist": "Deer Tick"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "12:20 - 1:10", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/dum-dum-girls", 
         "ids": {
             "spotify": "spotify:artist:65ewrL6LvcNGMMRVlksNGS", 
@@ -645,6 +1010,13 @@
         "artist": "Dum Dum Girls"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "2:30 - 3:30", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/christopher-owens", 
         "ids": {
             "spotify": "spotify:artist:0ukgSx1gUt5rUihbNh46qy", 
@@ -657,6 +1029,13 @@
         "artist": "Christopher Owens"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "6:05 - 6:50", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/big-freedia", 
         "ids": {
             "spotify": "spotify:artist:2gyv1akuIB9fQvXoGSPaJr", 
@@ -670,6 +1049,13 @@
         "artist": "Big Freedia"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "2:05 - 2:55", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/jagwar-ma", 
         "ids": {
             "spotify": "spotify:artist:6fEO1r9Y9TYL9O4w5kVPmc", 
@@ -683,6 +1069,13 @@
         "artist": "Jagwar Ma"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "4:30 - 5:10", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/vance-joy", 
         "ids": {
             "spotify": "spotify:artist:10exVja0key0uqUkk6LJRT", 
@@ -696,6 +1089,13 @@
         "artist": "Vance Joy"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "1:10 - 2:00", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/valerie-june", 
         "ids": {
             "spotify": "spotify:artist:4QZdOCb3UacKbQ1ybDFAKM", 
@@ -709,6 +1109,13 @@
         "artist": "Valerie June"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "12:00 - 12:45", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/tumbleweed-wanderers", 
         "ids": {
             "spotify": "spotify:artist:0KUPqZsHeQgLr8OF7z2yRj", 
@@ -719,6 +1126,13 @@
         "artist": "Tumbleweed Wanderers"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "2:55 - 3:35", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/finish-ticket", 
         "ids": {
             "spotify": "spotify:artist:3RthMq3xfDQZl80cMEg1JQ", 
@@ -729,6 +1143,13 @@
         "artist": "Finish Ticket"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "1:25 - 2:05", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-districts", 
         "ids": {
             "spotify": "spotify:artist:3HZgaiR960RFqx9d4LPraD", 
@@ -741,6 +1162,13 @@
         "artist": "The Districts"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "12:40 - 1:25", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/trails-and-ways", 
         "ids": {
             "spotify": "spotify:artist:4waBtLEoe70SqdFLGsaXCZ", 
@@ -754,6 +1182,13 @@
         "artist": "Trails and Ways"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "12:00 - 12:40", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/nocona-", 
         "ids": {
             "spotify": "spotify:artist:30ruTcaBnr7SfDltXSRTJ5", 
@@ -764,6 +1199,13 @@
         "artist": "Nocona"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "6:00 - 7:45", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/gorgon-city", 
         "ids": {
             "spotify": "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx", 
@@ -777,6 +1219,13 @@
         "artist": "Gorgon City"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "4:30 - 6:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-scum-frog", 
         "ids": {
             "spotify": "spotify:artist:22tL4hcoGJQDaGexiQTWy9", 
@@ -790,6 +1239,13 @@
         "artist": "The Scumfrog"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "3:00 - 4:30", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/shawn-reynaldo", 
         "ids": {
             "outside": "130703"
@@ -797,6 +1253,13 @@
         "artist": "Shawn Reynaldo"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "1:30 - 3:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/deejay-theory", 
         "ids": {
             "spotify": "spotify:artist:5iW9p5ZAmVwIGLRpQNoYrb", 
@@ -806,6 +1269,13 @@
         "artist": "Deejay Theory"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "12:00 - 1:30", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/matt-haze", 
         "ids": {
             "outside": "107915", 
@@ -814,6 +1284,18 @@
         "artist": "Matt Haze"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "4:00 - 5:00", 
+                "stage": "The Barbary"
+            }, 
+            {
+                "date": "2014-08-10", 
+                "time": "12:45 - 1:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-improvised-shakespeare-company", 
         "ids": {
             "outside": "60275"
@@ -821,6 +1303,7 @@
         "artist": "The Improvised Shakespeare Company"
     }, 
     {
+        "shows": [], 
         "link": "http://lineup.sfoutsidelands.com/band/improv-4-humans-with-matt-besser-and-guests-chris-gethard-lauren-lapkus-and-seth-morris", 
         "ids": {
             "outside": "776456"
@@ -828,6 +1311,13 @@
         "artist": "Improv4Humans with Matt Besser and guests Chris Gethard, Lauren Lapkus and Seth Morris"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-09", 
+                "time": "12:45 - 1:45", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-chris-gethard-show", 
         "ids": {
             "outside": "119584"
@@ -835,6 +1325,13 @@
         "artist": "The Chris Gethard Show"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "8:05 - 9:35", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-killers", 
         "ids": {
             "spotify": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu", 
@@ -848,6 +1345,13 @@
         "artist": "The Killers"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "8:25 - 9:35", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/ti%C3%ABsto-", 
         "ids": {
             "spotify": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z", 
@@ -861,6 +1365,13 @@
         "artist": "Ti\u00ebsto"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "6:10 - 7:20", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-flaming-lips", 
         "ids": {
             "spotify": "spotify:artist:16eRpMNXSQ15wuJoeqguaB", 
@@ -874,6 +1385,13 @@
         "artist": "The Flaming Lips"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "6:50 - 8:00", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/ray-lamontagne", 
         "ids": {
             "spotify": "spotify:artist:6DoH7ywD5BcQvjloe9OcIj", 
@@ -887,6 +1405,13 @@
         "artist": "Ray LaMontagne"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "4:40 - 5:40", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/spoon", 
         "ids": {
             "spotify": "spotify:artist:0K1q0nXQ8is36PzOKAMbNe", 
@@ -900,6 +1425,13 @@
         "artist": "Spoon"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "6:40 - 7:40", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/cut-copy", 
         "ids": {
             "spotify": "spotify:artist:4EENT7N7rCBwrddM3s0vFS", 
@@ -913,6 +1445,13 @@
         "artist": "Cut Copy"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "5:20 - 6:20", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/ben-howard", 
         "ids": {
             "spotify": "spotify:artist:5schNIzWdI9gJ1QRK8SBnc", 
@@ -926,6 +1465,13 @@
         "artist": "Ben Howard"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "5:05 - 5:55", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/lykke-li", 
         "ids": {
             "spotify": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in", 
@@ -939,6 +1485,13 @@
         "artist": "Lykke Li"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "3:10 - 4:10", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/chvrches", 
         "ids": {
             "spotify": "spotify:artist:3CjlHNtplJyTf9npxaPl5w", 
@@ -952,6 +1505,13 @@
         "artist": "Chvrches"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "1:50 - 2:40", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/paolo-nutini", 
         "ids": {
             "spotify": "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp", 
@@ -965,6 +1525,13 @@
         "artist": "Paolo Nutini"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "3:50 - 4:50", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/jenny-lewis-", 
         "ids": {
             "spotify": "spotify:artist:5cMVRrisBpDkXCVG48epED", 
@@ -978,6 +1545,13 @@
         "artist": "Jenny Lewis"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "3:30 - 4:20", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/flume", 
         "ids": {
             "spotify": "spotify:artist:6nxWCVXbOlEVRexSbLsTer", 
@@ -991,6 +1565,13 @@
         "artist": "Flume"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "2:30 - 3:20", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/lucius", 
         "ids": {
             "spotify": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas", 
@@ -1004,6 +1585,13 @@
         "artist": "Lucius"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "7:40 - 8:25", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/gold-panda", 
         "ids": {
             "spotify": "spotify:artist:6xS3zemJD9h94iueQvGqVk", 
@@ -1017,6 +1605,13 @@
         "artist": "Gold Panda"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "1:10 - 2:00", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/woods-", 
         "ids": {
             "spotify": "spotify:artist:2sBPVEeMBXKNsZtYaJixnJ", 
@@ -1029,6 +1624,13 @@
         "artist": "Woods"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "5:55 - 6:35", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/gardens-and-villa", 
         "ids": {
             "spotify": "spotify:artist:5NgfalfOtMDHkJ0SbFAxyA", 
@@ -1042,6 +1644,13 @@
         "artist": "Gardens & Villa"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "2:00 - 2:45", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/watsky", 
         "ids": {
             "spotify": "spotify:artist:3mJ9GlkLzj8Ka7Z7EQaCMi", 
@@ -1053,6 +1662,13 @@
         "artist": "Watsky"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "2:45 - 3:25", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/hiss-golden-messenger--", 
         "ids": {
             "spotify": "spotify:artist:37eqxl8DyLd5sQN54wYJbE", 
@@ -1066,6 +1682,13 @@
         "artist": "Hiss Golden Messenger"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "12:30 - 1:20", 
+                "stage": "Lands End"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/imelda-may", 
         "ids": {
             "spotify": "spotify:artist:6AnjHMqEAps8VJdHU8RykH", 
@@ -1079,6 +1702,13 @@
         "artist": "Imelda May"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "4:20 - 5:00", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/courtney-barnett", 
         "ids": {
             "spotify": "spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y", 
@@ -1092,6 +1722,13 @@
         "artist": "Courtney Barnett"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "12:40 - 1:20", 
+                "stage": "Twin Peaks"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/made-in-heights-", 
         "ids": {
             "spotify": "spotify:artist:71zBpZsf6YDEBfWayKdAOA", 
@@ -1102,6 +1739,13 @@
         "artist": "Made in Heights"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "12:00 - 12:45", 
+                "stage": "Sutro"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/jonathan-wilson", 
         "ids": {
             "spotify": "spotify:artist:6KJIIOCWsWtNc7ICINtPEw", 
@@ -1115,6 +1759,13 @@
         "artist": "Jonathan Wilson"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "1:20 - 2:00", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-brothers-comatose", 
         "ids": {
             "spotify": "spotify:artist:7oKVYDiVZxglvgEW2zHcAD", 
@@ -1127,6 +1778,13 @@
         "artist": "The Brothers Comatose"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "12:00 - 12:40", 
+                "stage": "Panhandle"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/the-bots-", 
         "ids": {
             "spotify": "spotify:artist:74inaPbbmkeOZch3n682zq", 
@@ -1139,6 +1797,13 @@
         "artist": "The Bots"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "5:30 - 8:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/green-velvet-", 
         "ids": {
             "spotify": "spotify:artist:3ABaec4jjl95VqmG1iD4k2", 
@@ -1152,6 +1817,13 @@
         "artist": "Green Velvet"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "4:00 - 5:30", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/soultech-gene-farris-and-dustin-sheridan", 
         "ids": {
             "outside": "768727"
@@ -1159,6 +1831,13 @@
         "artist": "Soultech 'Gene Farris & Dustin Sheridan'"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "3:00 - 4:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/cappa-regime", 
         "ids": {
             "spotify": "spotify:artist:6nsRu4qU6Q7JxNzF9k83WW", 
@@ -1169,6 +1848,13 @@
         "artist": "Cappa Regime"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "12:00 - 3:00", 
+                "stage": "The House by Heineken"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/lights-down-low-", 
         "ids": {
             "outside": "497581"
@@ -1176,6 +1862,18 @@
         "artist": "Lights Down Low: Richie Panic, Sleazemore & MPHD"
     }, 
     {
+        "shows": [
+            {
+                "date": "2014-08-10", 
+                "time": "4:30 - 6:00", 
+                "stage": "The Barbary"
+            }, 
+            {
+                "date": "2014-08-10", 
+                "time": "6:30 - 8:00", 
+                "stage": "The Barbary"
+            }
+        ], 
         "link": "http://lineup.sfoutsidelands.com/band/thomas-middleditch-t-j-miller-and-kumail-nanjiani-", 
         "ids": {
             "outside": "776455"
