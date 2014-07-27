@@ -39,10 +39,13 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'firebase'
 gem 'debugger'
+gem 'httparty'
+
 
 group :development do 
 	gem 'better_errors'
   	gem 'binding_of_caller'
   	gem 'dotenv-rails'
   	gem 'quiet_assets'
+  	gem 'sextant'
 end
