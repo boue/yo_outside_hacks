@@ -88,6 +88,9 @@ button {
   font-size: 40px;
 }
 
+.admin-container p {
+  font-size: 40px;
+}
 
 input {
   height: 42px;
@@ -109,6 +112,15 @@ button img {
 #counter {
   font-size: 50px;
   margin: 15px;
+}
+
+#yo {
+  margin: 0px;
+}
+
+input#username {
+  width: 800px;
+  text-align: center;
 }
 
 #yo-container {
