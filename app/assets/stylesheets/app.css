@@ -75,3 +75,29 @@ button {
   margin-top: 40px;
 }
 
+#yo-admin-login {
+  text-align: center;
+}
+
+#yo-admin-login h2 {
+  font-size: 100px;
+  margin-bottom: 50px;
+}
+
+#yo-admin-login form {
+  font-size: 40px;
+}
+
+
+input {
+  height: 42px;
+  width: 240px;
+  vertical-align: top;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+nav {
+  margin: 20px;
+  text-align: right;
+}

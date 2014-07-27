@@ -4,7 +4,6 @@ $(function() {
 
   // initial load
   yosRef.on("child_added", function (yo) {
-    console.log(yo)
     var yo = yo.val();
     var $yoNode = $('<li>').text(yo.username);
 
