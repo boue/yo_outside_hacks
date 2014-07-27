@@ -12,9 +12,10 @@ class YosController < ApplicationController
 
 	def yo_send
   	if params[:type] == "one" && params[:username]
-  		#send to one user
+
+  		`curl --data "api_token=#{ENV['YO_SECRET']}&username=#{params[:username]}" http://api.justyo.co/yo/`
   	elsif params[:type] == "all"
-  		# `curl --data "api_token=#{ENV['YO_SECRET']}" http://api.justyo.co/yoall/`
+  		`curl --data "api_token=#{ENV['YO_SECRET']}" http://api.justyo.co/yoall/`
   	end
 
   	head :no_content

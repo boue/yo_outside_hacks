@@ -28,34 +28,55 @@ $(function() {
     setTimeout(addAnimations, 2000);
   }
   else if ( $body.hasClass('admins') ) {
-    var toggleButton = function() {
-      $('img').toggle();
-      $('span').toggle();
+
+    var $btnYo = $('#yo');
+    var $btnYoAll = $('#yo-all');
+
+    var toggleButton = function($btn) {
+      $btn.find('img').toggle();
+      $btn.find('span').toggle();
+    }
+
+    var preventFormSubmission = function(e) {
+      e.preventDefault();
+      sendYo('one');
     }
 
     var sendYo = function(type, e) {
       var btnText;
-      var $btnTextNode = $(e.target).closest('button');
+      var $btnTextNode;
+
+      if (e) {
+        $btnTextNode = $(e.target).closest('button');
+        e.preventDefault();
+      }
+      else {
+        $btnTextNode = $btnYo;
+      }
 
       if (type === 'all') {
         btnText = 'YO ALL!';
+        data = { type: type }
       }
       else {
         btnText = 'YO!';
+        data = { type: type, username: $('#username').val() }
       }
-      toggleButton();
+      toggleButton($btnTextNode);
+
       $.ajax({
         url: '/yo_send',
         type: 'POST',
-        data: { type: type }
+        data: data
       }).done(function(){
-        toggleButton();
+        toggleButton($btnTextNode);
         $btnTextNode.text('SENT!')
         setTimeout(function() { $btnTextNode.text(btnText) }, 1000)
       });
     }
 
-    $("#yo-all").click(sendYo.bind(this, 'all'));
-    $("#yo").click(sendYo.bind(this, 'one'));
+    $btnYoAll.click(sendYo.bind(this, 'all'));
+    $btnYo.click(sendYo.bind(this, 'one'));
+    $('form').submit(preventFormSubmission);
   }
 });
