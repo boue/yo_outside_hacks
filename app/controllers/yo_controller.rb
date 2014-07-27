@@ -1,0 +1,3 @@
+class YoController < ApplicationController
+	
+end
