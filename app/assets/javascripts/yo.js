@@ -12,6 +12,8 @@ $(function() {
       $('li').addClass('dont-animate');
     }
 
+    $('#yo-container').addClass('rotate');
+
     // initial load
     yosRef.on("child_added", function (yo) {
       var yo = yo.val();
