@@ -1,29 +1,48 @@
 $(function() {
-  var ref = new Firebase("https://YO-OUTSIDE-HACKS.firebaseio.com/");
-  var yosRef = ref.child("yos");
 
-  // initial load
-  yosRef.on("child_added", function (yo) {
-    var yo = yo.val();
-    var $yoNode = $('<li>').text(yo.username);
+  var $body = $('body');
 
-    $('ul').prepend($yoNode);
-    $yoNode.slideDown();
-  });
+  if ( $body.hasClass('welcome') ) {
+    var ref = new Firebase("https://YO-OUTSIDE-HACKS.firebaseio.com/");
+    var yosRef = ref.child("yos");
+    var counter = 0;
+    var $counterNode = $('#counter span');
+    var addAnimations = function() {
+      $body.addClass('animate');
+      $('li').addClass('dont-animate');
+    }
 
-  $("#yo-all").click(function() {
-    $.ajax({
-      url: '/yo_send',
-      type: 'POST',
-      data: { type: 'all' }
+    // initial load
+    yosRef.on("child_added", function (yo) {
+      var yo = yo.val();
+      var $yoNode = $('<li>').text(yo.username);
+
+      $counterNode.text(++counter);
+      $('ul').prepend($yoNode);
+      $yoNode.slideDown();
     });
-  });
 
-  // start animating the addition
-  setTimeout(addAnimations, 2000);
+    // start animating the addition
+    setTimeout(addAnimations, 2000);
+  }
+  else if ( $body.hasClass('admins') ) {
+    var $btnText = $('span');
+    var toggleButton = function() {
+      $('img').toggle();
+      $('span').toggle();
+    }
 
-  function addAnimations() {
-    $('body').addClass('animate');
-    $('li').addClass('dont-animate');
+    $("#yo-all").click(function() {
+      toggleButton();
+      $.ajax({
+        url: '/yo_send',
+        type: 'POST',
+        data: { type: 'all' }
+      }).done(function(){
+        toggleButton();
+        $btnText.text('SENT!')
+        setTimeout(function() { $btnText.text('YO ALL!') }, 1000)
+      });
+    });
   }
 });

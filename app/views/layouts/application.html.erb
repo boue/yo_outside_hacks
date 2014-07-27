@@ -6,8 +6,9 @@
   <%= javascript_include_tag 'application' %>
   <script type="text/javascript" src="https://cdn.firebase.com/v0/firebase.js"></script>
   <%= csrf_meta_tags %>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
-<body>
+<body class="<%= controller_name %>">
 
 <%= yield %>
 
