@@ -96,3 +96,8 @@ input {
   font-size: 24px;
   margin-bottom: 20px;
 }
+
+nav {
+  margin: 20px;
+  text-align: right;
+}
