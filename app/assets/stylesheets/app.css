@@ -138,4 +138,7 @@ button img {
   transform: rotate(360deg);
 }
 
+#player {
+  display: none;
+}
 

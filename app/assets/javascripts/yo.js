@@ -31,6 +31,7 @@ $(function() {
 
     var $btnYo = $('#yo');
     var $btnYoAll = $('#yo-all');
+    var $player = $('#player');
 
     var toggleButton = function($btn) {
       $btn.find('img').toggle();
@@ -44,14 +45,14 @@ $(function() {
 
     var sendYo = function(type, e) {
       var btnText;
-      var $btnTextNode;
+      var $btnNode;
 
       if (e) {
-        $btnTextNode = $(e.target).closest('button');
+        $btnNode = $(e.target).closest('button');
         e.preventDefault();
       }
       else {
-        $btnTextNode = $btnYo;
+        $btnNode = $btnYo;
       }
 
       if (type === 'all') {
@@ -62,19 +63,23 @@ $(function() {
         btnText = 'YO!';
         data = { type: type, username: $('#username').val() }
       }
-      toggleButton($btnTextNode);
+      toggleButton($btnNode);
 
       $.ajax({
         url: '/yo_send',
         type: 'POST',
         data: data
       }).done(function(){
-        toggleButton($btnTextNode);
-        $btnTextNode.text('SENT!')
-        setTimeout(function() { $btnTextNode.text(btnText) }, 1000)
+        $player.tubeplayer('play');
+        setTimeout(function() {
+          toggleButton($btnNode);
+          $btnNode.find('span').text('SENT!')
+        }, 200);
+        setTimeout(function() { $btnNode.find('span').text(btnText) }, 1000)
       });
     }
 
+    $player.tubeplayer({ initialVideo: "QGEh_24Ribo" })
     $btnYoAll.click(sendYo.bind(this, 'all'));
     $btnYo.click(sendYo.bind(this, 'one'));
     $('form').submit(preventFormSubmission);
