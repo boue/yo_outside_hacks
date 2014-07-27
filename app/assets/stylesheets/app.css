@@ -1,0 +1,50 @@
+body {
+  font-family: 'Montserrat', arial, sans-serif;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-align: center;
+  font-size: 72px;
+  padding: 26px;
+  color: white;
+}
+
+li:nth-child(8n+1) {
+  background: #1BBC9A;
+}
+
+li:nth-child(8n+2) {
+  background: #3598DB;
+}
+
+li:nth-child(8n+3) {
+  background: #34495E;
+}
+
+li:nth-child(8n+4) {
+  background: #F1C40F;
+}
+
+li:nth-child(8n+5) {
+  background: #2B80B9;
+}
+
+li:nth-child(8n+6) {
+  background: #9738B6;
+}
+
+li:nth-child(8n+7) {
+  background: #29D26D;
+}
+
+li:nth-child(8n+8) {
+  background: #16A086;
+}
+
