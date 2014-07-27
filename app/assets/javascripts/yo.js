@@ -28,23 +28,34 @@ $(function() {
     setTimeout(addAnimations, 2000);
   }
   else if ( $body.hasClass('admins') ) {
-    var $btnText = $('span');
     var toggleButton = function() {
       $('img').toggle();
       $('span').toggle();
     }
 
-    $("#yo-all").click(function() {
+    var sendYo = function(type, e) {
+      var btnText;
+      var $btnTextNode = $(e.target).closest('button');
+
+      if (type === 'all') {
+        btnText = 'YO ALL!';
+      }
+      else {
+        btnText = 'YO!';
+      }
       toggleButton();
       $.ajax({
         url: '/yo_send',
         type: 'POST',
-        data: { type: 'all' }
+        data: { type: type }
       }).done(function(){
         toggleButton();
-        $btnText.text('SENT!')
-        setTimeout(function() { $btnText.text('YO ALL!') }, 1000)
+        $btnTextNode.text('SENT!')
+        setTimeout(function() { $btnTextNode.text(btnText) }, 1000)
       });
-    });
+    }
+
+    $("#yo-all").click(sendYo.bind(this, 'all'));
+    $("#yo").click(sendYo.bind(this, 'one'));
   }
 });

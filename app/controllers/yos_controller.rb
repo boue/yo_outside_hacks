@@ -14,7 +14,7 @@ class YosController < ApplicationController
   	if params[:type] == "one" && params[:username]
   		#send to one user
   	elsif params[:type] == "all"
-  		`curl --data "api_token=#{ENV['YO_SECRET']}" http://api.justyo.co/yoall/`
+  		# `curl --data "api_token=#{ENV['YO_SECRET']}" http://api.justyo.co/yoall/`
   	end
 
   	head :no_content
