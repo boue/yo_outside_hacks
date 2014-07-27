@@ -1,16 +1,14 @@
 class AdminsController < ApplicationController
   
   def index
-  	#renders page with log in box 
+  	#renders page with log in box
+  	if admin.logged_in?
+
+  	else 
+  		flash[:notice] = "Invalid Admin username/password combination"
+  		redirect_to admin_path
+  	end
   end
 
-  def yo
-  	admin.logged_in?
-	  	if params[:type] == "one" && params[:username]
-	  		#send to one user
-	  	elsif params[:type] == "all" 
-	  		#render all page with button to send to all 
-  		end	
-  end
 
 end

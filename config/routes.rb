@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
 
-  get 'yo/:api_key', to: 'yos#yo'
+  get '/yo_receive/:api_key', to: 'yos#yo_receive'
+  post '/yo_send', to: 'yos#yo_send'
   get '/admin', to: 'admins#index'
-  get '/admin/yo', to: 'admins#yo'
   root 'welcome#index'
   
 end
