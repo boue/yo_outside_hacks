@@ -5,6 +5,8 @@ $(function() {
   if ( $body.hasClass('welcome') ) {
     var ref = new Firebase("https://YO-OUTSIDE-HACKS.firebaseio.com/");
     var yosRef = ref.child("yos");
+    var counter = 0;
+    var $counterNode = $('#counter span');
     var addAnimations = function() {
       $body.addClass('animate');
       $('li').addClass('dont-animate');
@@ -15,6 +17,7 @@ $(function() {
       var yo = yo.val();
       var $yoNode = $('<li>').text(yo.username);
 
+      $counterNode.text(++counter);
       $('ul').prepend($yoNode);
       $yoNode.slideDown();
     });

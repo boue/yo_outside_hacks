@@ -106,3 +106,14 @@ button img {
   display: none;
 }
 
+#counter {
+  font-size: 50px;
+  margin: 15px;
+}
+
+#yo-container {
+  text-align: center
+}
+
+
+
