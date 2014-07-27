@@ -1,10 +1,7 @@
 class AdminsController < ApplicationController
 
   def index
-
-  	#renders page with log in box
-  	# if admin.logged_in?
-  	
+  	redirect_to login_path unless session[:logged_in]
   end
 
 end
