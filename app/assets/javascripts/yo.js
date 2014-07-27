@@ -9,12 +9,22 @@ $(function() {
     var $yoNode = $('<li>').text(yo.username);
 
     $('ul').prepend($yoNode);
+    $yoNode.slideDown();
+  });
+
+  $("#yo-all").click(function() {
+    $.ajax({
+      url: '/yo_send',
+      type: 'POST',
+      data: { type: 'all' }
+    });
   });
 
   // start animating the addition
-  // setTimeout(addAnimations, 2000);
+  setTimeout(addAnimations, 2000);
 
-  // function() {
-  //   $('body').addClass('animate');
-  // }
+  function addAnimations() {
+    $('body').addClass('animate');
+    $('li').addClass('dont-animate');
+  }
 });

@@ -48,3 +48,30 @@ li:nth-child(8n+8) {
   background: #16A086;
 }
 
+body.animate li {
+  display: none;
+}
+
+body.animate .dont-animate {
+  display: block;
+}
+
+.admin-container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 140px;
+  margin: 0;
+}
+
+button {
+  width: 800px;
+  height: 110px;
+  font-size: 50px;
+  background: #9738B6;
+  color: white;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
