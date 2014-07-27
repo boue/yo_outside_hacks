@@ -101,3 +101,8 @@ nav {
   margin: 20px;
   text-align: right;
 }
+
+button img {
+  display: none;
+}
+
